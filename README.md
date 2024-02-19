@@ -8,10 +8,10 @@ Inicialmente, instalado Node.js no sistema. Em seguida, criando um novo projeto 
 
 ## Funcionalidades
 
-GET: Utilizado para recuperar informações.
-POST: Utilizado para criar novos dados.
-PUT: Utilizado para atualizar dados existentes.
-DELETE: Utilizado para excluir dados.
+**GET: Utilizado para recuperar informações.**
+**POST: Utilizado para criar novos dados.**
+**PUT: Utilizado para atualizar dados existentes.**
+**DELETE: Utilizado para excluir dados.**
 
 ## Executando o Projeto
 
